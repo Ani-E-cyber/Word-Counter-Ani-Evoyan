@@ -15,3 +15,13 @@ button {
   border: 0;
   font-size: 24px;
 }
+
+.background-photo {
+  background-color: lightpink;
+
+  display: block;
+}
+
+button:active {
+  transform: scale(0.98);
+}
